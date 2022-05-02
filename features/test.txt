@@ -1,0 +1,17 @@
+The global command (g) tells the delete command (d) to delete all lines containing the <pattern>.
+
+To match the lines not matching the pattern, add an exclamation mark (!) before the patte
+test 
+
+The total command (g) tells the delete command (d) to delete all lines containing the <pattern>.
+
+To match the lines not matching the pattern, add an exclamation mark (!) before the pattern
+
+
+The total command (g) tells the delete command (d) to delete all lines containing the <pattern>.
+
+To match the lines not matching the pattern, add an exclamation mark (!) before the pattern:
+
+The global command (g) tells the delete command (d) to delete all lines containing the <pattern>.
+
+To match the lines not matching the pattern, add an exclamation mark (!) before the pattern:
