@@ -27,3 +27,13 @@ public class PersonClass
   }
 }
 
+public class Animal 
+{
+  private int i;
+
+  public int Age
+  {
+    get => i;
+    init => i = value;
+  }
+}
